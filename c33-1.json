@@ -1,0 +1,16 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "AdmobNative": "",
+    "applovinBanner": "c7a925f2629cc7e9",
+    "applovinInterstitial": "358a3f5aeec86895",
+    "ApplovinNative": "ebc15ca3ce85fce9",
+    "IMG1_URL": "https://app3-happygaming.netlify.app/native1.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.retrogames.deeersimulatorgame.deersimulator.DEEEERSimulator",
+    "IMG2_URL": "https://app3-happygaming.netlify.app/native2.png",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.retrogamez.thormarvels.thorgame",
+    "RatingActive": true
+  }
+}
