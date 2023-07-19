@@ -4,13 +4,13 @@
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-    "applovinBanner": "",
-    "applovinInterstitial": "",
-    "ApplovinNative": "",
-    "IMG1_URL": "https://app3-happygaming.netlify.app/native1.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.retrogames.deeersimulatorgame.deersimulator.DEEEERSimulator",
-    "IMG2_URL": "https://app3-happygaming.netlify.app/native2.png",
-    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.retrogamez.thormarvels.thorgame",
+    "applovinBanner": "banner1111111",
+    "applovinInterstitial": "inter222222",
+    "ApplovinNative": "nativ33333",
+    "IMG1_URL": "https://c33.netlify.app/c33-1.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXX",
+    "IMG2_URL": "https://c33.netlify.app/c33-2.png",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=XXXXX",
     "RatingActive": true
   }
 }
