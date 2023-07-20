@@ -11,7 +11,7 @@
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXX",
     "IMG2_URL": "https://c33.netlify.app/c33-2.png",
     "TEXT2_URL": "https://play.google.com/store/apps/details?id=XXXXX",
-    "modeads": true,
+    "modeads": false,
     "RatingActive": true
   }
 }
