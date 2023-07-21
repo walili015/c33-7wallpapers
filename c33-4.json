@@ -4,14 +4,14 @@
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-    "applovinBanner": "banner1111111",
-    "applovinInterstitial": "inter222222",
-    "ApplovinNative": "nativ33333",
+    "applovinBanner": "d1350a1006eb8524",
+    "applovinInterstitial": "4ddd60c0fff556f9",
+    "ApplovinNative": "264c18b6a95ae7b1",
     "IMG1_URL": "https://c33.netlify.app/c33-1.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXX",
     "IMG2_URL": "https://c33.netlify.app/c33-2.png",
     "TEXT2_URL": "https://play.google.com/store/apps/details?id=XXXXX",
-    "modeads": true,
+    "modeads": false,
     "RatingActive": true
   }
 }
