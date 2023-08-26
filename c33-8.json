@@ -1,10 +1,10 @@
 {
   "AdsController": {
-    "adNetwork": "mixed",
+    "adNetwork": "applovin",
     "admobBanner": "",
     "admobInterstitial": "",
-    "applovinBanner": "",
-    "applovinInterstitial": "interstituatualtual1111111",
+    "applovinBanner": "b7c50443665867de",
+    "applovinInterstitial": "a19214185ae12949",
     "ratingactive": true,
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
