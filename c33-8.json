@@ -6,8 +6,8 @@
     "applovinBanner": "b7c50443665867de",
     "applovinInterstitial": "a19214185ae12949",
     "ratingactive": true,
-    "appsuspand": false,
-    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
+    "appsuspand": true,
+    "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.bad_babby_images_whoisyourdaddy",
     "modeads": true,
     "IMG1_URL": "https://c33.netlify.app/c33-11.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.ramadanstudio"
