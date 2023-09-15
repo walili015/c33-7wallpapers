@@ -6,8 +6,8 @@
     "applovinBanner": "d01290b56fca7d17",
     "applovinInterstitial": "c531e9a2c049d34d",
     "ratingactive": true,
-    "appsuspand": false,
-    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
+    "appsuspand": true,
+    "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.bad_babby_images_whoisyourdaddy",
     "modeads": true,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.bad_babby_images_whoisyourdaddy"
